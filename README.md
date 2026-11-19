@@ -134,3 +134,5 @@ Apps that let you trade HIP-3 markets from your own wallet. Market lists and acc
 ## Contributing
 
 Additions and fixes are welcome. Read the [contribution guidelines](CONTRIBUTING.md) first: one entry per pull request, a live product that states HIP-3 or Hyperliquid stock-perp support on its own site, and a neutral description.
+
+If this list helped you, a star helps others find it.
