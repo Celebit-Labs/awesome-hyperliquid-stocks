@@ -89,6 +89,7 @@ Apps that let you trade HIP-3 markets from your own wallet. Market lists and acc
 
 - [Perpex HIP-3 markets](https://perpex.co/markets/hip-3) - Every live HIP-3 dex with its markets, 24h volume and open interest.
 - [Allium HIP-3](https://hyperliquid.allium.so/hip3) - HIP-3 dashboard on Allium's free Hyperliquid portal.
+- [AlphaYou Hyperliquid stocks](https://alphayou.net/hyperliquid/stocks) - Stock perps with the long and short positions tracked traders hold in each.
 - [ASXN HIP-3 dashboard](https://data.asxn.xyz/dashboard/hip-3) - ASXN's dashboard for HIP-3 markets.
 - [Coinperps HIP-3 statistics](https://www.coinperps.com/learn/hyperliquid-hip-3-statistics) - Volume, open interest, deployer share and incident history.
 - [Hyperliquid API](https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api) - Official info endpoint; `perpDexs` lists every HIP-3 dex and its markets.
