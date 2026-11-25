@@ -39,7 +39,7 @@ or a description is wrong. Please include the source.
 
 ## Review
 
-The maintainers check every addition against the rules above, usually within a week. Entries can be removed if they
+The maintainers check every addition against the rules above, usually within a week. Watch or star the repo to get notified when your pull request is reviewed and when the list changes. Entries can be removed if they
 stop meeting the rules. The list is fully reviewed once a month.
 
 ## License

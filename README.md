@@ -4,8 +4,11 @@
 
 A curated list of the markets, deployers, apps, data sources and guides for trading traditional assets as perps on Hyperliquid. Every entry was checked on 2026-11-19. Nothing here is investment advice.
 
+⭐ Star this repo to get updates when new HIP-3 markets, apps and data sources are added.
+
 ## Contents
 
+- [Recently added](#recently-added)
 - [What is HIP-3](#what-is-hip-3)
 - [Markets](#markets)
 - [Deployers](#deployers)
@@ -15,6 +18,11 @@ A curated list of the markets, deployers, apps, data sources and guides for trad
 - [Pre-IPO perps](#pre-ipo-perps)
 - [Incidents worth reading](#incidents-worth-reading)
 - [Risks](#risks)
+
+## Recently added
+
+- 2026-11-25: [Hydromancer Reservoir](#market-data-and-trackers).
+- 2026-11-20: [AlphaYou Hyperliquid stocks](#market-data-and-trackers).
 
 ## What is HIP-3
 
@@ -136,4 +144,8 @@ Apps that let you trade HIP-3 markets from your own wallet. Market lists and acc
 
 Additions and fixes are welcome. Read the [contribution guidelines](CONTRIBUTING.md) first: one entry per pull request, a live product that states HIP-3 or Hyperliquid stock-perp support on its own site, and a neutral description.
 
-If this list helped you, a star helps others find it.
+If this list helped you, a star helps others find it. Listed projects can add this badge to their README:
+
+```markdown
+[![Listed in Awesome Hyperliquid Stocks](https://awesome.re/mentioned-badge.svg)](https://github.com/Celebit-Labs/awesome-hyperliquid-stocks)
+```
