@@ -129,6 +129,7 @@ Apps that let you trade HIP-3 markets from your own wallet. Market lists and acc
 ## Incidents worth reading
 
 - [Galaxy Research: trade.xyz oracle and liquidations](https://www.galaxy.com/insights/research/hyperliquid-tradexyz-oracle-liquidations) - Analysis of the July 2026 SK Hynix oracle event and HIP-3 oracle design.
+- [hip3-oracle-guard: SK Hynix oracle postmortem](https://github.com/imokokok/hip3-oracle-guard/blob/main/docs/postmortem/2026-07-28-sk-hynix.md) - Technical teardown of the July 2026 trade.xyz SK Hynix oracle event and its liquidations.
 - [Nexus Mutual: SK Hynix flash crash report](https://nexusmutual.io/blog/xyz-skhynix-flash-crash-on-hyperliquid-incident-report) - Timeline of the same event and its liquidations.
 - [The Block: Ventuals SpaceX perp plunge](https://www.theblock.co/post/402991/ventuals-to-compensate-traders-after-pre-ipo-spacex-perps-plunge-45-on-hyperliquid) - A pre-IPO perp that fell on bad oracle data in May 2026.
 
