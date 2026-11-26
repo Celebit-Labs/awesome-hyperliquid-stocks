@@ -102,6 +102,7 @@ Apps that let you trade HIP-3 markets from your own wallet. Market lists and acc
 - [Coinperps HIP-3 statistics](https://www.coinperps.com/learn/hyperliquid-hip-3-statistics) - Volume, open interest, deployer share and incident history.
 - [Hydromancer Reservoir](https://hydromancer.xyz/hyperliquid-historical-data) - Daily Parquet trades, 1-second candles and order books for each HIP-3 dex, on requester-pays S3.
 - [Hyperliquid API](https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api) - Official info endpoint; `perpDexs` lists every HIP-3 dex and its markets.
+- [Hypr Markets HIP-3 markets](https://app.hypr.markets/markets) - Funding history, leverage, fees and 30-day stats for each busy HIP-3 perp.
 - [HypurrScan HIP-3](https://hypurrscan.io/hip3) - Explorer page of HIP-3 dexs and their markets.
 - [The Block Data](https://www.theblock.co/data/hyperliquid) - Charts including daily HIP-3 open interest by dex.
 
